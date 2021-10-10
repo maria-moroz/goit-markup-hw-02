@@ -104,6 +104,8 @@ body {
   border-style: none;
   background-color: var(--accent-color);
   color: var(--primary-white-color);
+
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
@@ -198,6 +200,8 @@ body {
 .project .button {
   background-color: var(--secondary-bg-white-color);
   color: var(--title-text-color);
+
+  font-family: 'Roboto', sans-serif;
   border-style: none;
   font-weight: 500;
   font-size: 16px;
